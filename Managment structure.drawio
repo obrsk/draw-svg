@@ -1,35 +1,35 @@
-<mxfile host="app.diagrams.net" modified="2020-10-06T12:06:43.437Z" agent="5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.123 Safari/537.36" etag="qmidfH0jtwdSvdya0BeK" compressed="false" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-06T12:14:43.770Z" agent="5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.123 Safari/537.36" etag="KIoP8LaA6MkfBmfc_mAv" compressed="false" version="13.7.7" type="github">
   <diagram name="Page-1" id="97916047-d0de-89f5-080d-49f4d83e522f">
-    <mxGraphModel dx="1412" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1177" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="2" value="ЗАВЕДУЮЩИЙ" style="fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;fontFamily=Roboto Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto%2BCondensed;" parent="1" vertex="1">
-          <mxGeometry x="672" y="240" width="200" height="60" as="geometry" />
+          <mxGeometry x="600" y="320" width="280" height="76" as="geometry" />
         </mxCell>
         <mxCell id="3" value="ОРГАНЫ ОБЩЕСТВЕННОГО САМОУПРАВЛЕНИЯ" style="fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;fontFamily=Roboto Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto%2BCondensed;" parent="1" vertex="1">
-          <mxGeometry x="574" y="345.5" width="396" height="60" as="geometry" />
+          <mxGeometry x="280" y="440" width="920" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="8" value="ПЕДАГОГИЧЕСКИЙ СОВЕТ" style="fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="282" y="625.5" width="200" height="60" as="geometry" />
+        <mxCell id="8" value="ПЕДАГОГИЧЕСКИЙ СОВЕТ" style="fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;fontFamily=Roboto Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto%2BCondensed;" parent="1" vertex="1">
+          <mxGeometry x="280" y="560" width="280" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="9" value="ПЕДАГОГИ" style="fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="282" y="705.5" width="200" height="60" as="geometry" />
+        <mxCell id="9" value="ПЕДАГОГИ" style="fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;fontFamily=Roboto Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto%2BCondensed;" parent="1" vertex="1">
+          <mxGeometry x="280" y="680" width="280" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="13" value="СОВЕТ УЧРЕЖДЕНИЯ" style="fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="672" y="615.5" width="200" height="60" as="geometry" />
+        <mxCell id="13" value="СОВЕТ УЧРЕЖДЕНИЯ" style="fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;fontFamily=Roboto Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto%2BCondensed;" parent="1" vertex="1">
+          <mxGeometry x="599.9999999999999" y="560" width="280" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="14" value="РОДИТЕЛИ&#xa;СОТРУДНИКИ" style="fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="672" y="705.5" width="200" height="60" as="geometry" />
+        <mxCell id="14" value="РОДИТЕЛИ&#xa;СОТРУДНИКИ" style="fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;fontFamily=Roboto Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto%2BCondensed;" parent="1" vertex="1">
+          <mxGeometry x="599.9999999999999" y="680" width="280" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="18" value="ОБЩЕЕ СОБРАНИЕ" style="fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="990" y="615.5" width="200" height="60" as="geometry" />
+        <mxCell id="18" value="ОБЩЕЕ СОБРАНИЕ" style="fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;fontFamily=Roboto Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto%2BCondensed;" parent="1" vertex="1">
+          <mxGeometry x="920" y="560" width="280" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="19" value="Office of Financial &#xa;Management" style="fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="990" y="705.5" width="200" height="60" as="geometry" />
+        <mxCell id="19" value="РОДИТЕЛИ&#xa;СОТРУДНИКИ&#xa;ПРЕДСТАВИТЕЛИ СОЦИУМА" style="fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;fontFamily=Roboto Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto%2BCondensed;" parent="1" vertex="1">
+          <mxGeometry x="920" y="680" width="280" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="20" value="ВОСПИТАННИКИ И ИХ РОДИТЕЛИ" style="fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="270" y="850" width="920" height="60" as="geometry" />
+        <mxCell id="20" value="ВОСПИТАННИКИ И ИХ РОДИТЕЛИ" style="fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;fontFamily=Roboto Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto%2BCondensed;" parent="1" vertex="1">
+          <mxGeometry x="279.99999999999983" y="800" width="920" height="75" as="geometry" />
         </mxCell>
         <mxCell id="29" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;" parent="1" source="2" target="3" edge="1">
           <mxGeometry x="22" y="165.5" width="100" height="100" as="geometry">
@@ -37,10 +37,13 @@
             <mxPoint x="122" y="165.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="31" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;" parent="1" source="3" edge="1">
+        <mxCell id="31" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="3" target="8" edge="1">
           <mxGeometry x="22" y="165.5" width="100" height="100" as="geometry">
             <mxPoint x="22" y="265.5" as="sourcePoint" />
             <mxPoint x="402" y="455.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="520" y="483" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="38" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;" parent="1" source="8" target="9" edge="1">
@@ -55,10 +58,13 @@
             <mxPoint x="290" y="165.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="43" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;" parent="1" source="14" edge="1">
+        <mxCell id="43" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="14" target="20" edge="1">
           <mxGeometry x="190" y="175.5" width="100" height="100" as="geometry">
             <mxPoint x="190" y="275.5" as="sourcePoint" />
             <mxPoint x="772" y="795.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="780" y="770" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="46" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;" parent="1" source="18" target="19" edge="1">
@@ -67,18 +73,37 @@
             <mxPoint x="320" y="165.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="54" value="" style="elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;" parent="1" source="3" edge="1">
+        <mxCell id="54" value="" style="elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;" parent="1" source="3" target="13" edge="1">
           <mxGeometry x="22" y="165.5" width="100" height="100" as="geometry">
             <mxPoint x="22" y="265.5" as="sourcePoint" />
             <mxPoint x="772" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="55" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;" parent="1" source="3" target="18" edge="1">
+        <mxCell id="55" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="3" target="18" edge="1">
           <mxGeometry x="22" y="165.5" width="100" height="100" as="geometry">
             <mxPoint x="22" y="265.5" as="sourcePoint" />
-            <mxPoint x="122" y="165.5" as="targetPoint" />
+            <mxPoint x="1050" y="520" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="942" y="555.5" />
+              <mxPoint x="1100" y="480" />
+              <mxPoint x="1020" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-YSsNaTIa-xBHhpinbjy-57" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry x="509.58" y="175.5" width="100" height="100" as="geometry">
+            <mxPoint x="1059.5800000000002" y="755" as="sourcePoint" />
+            <mxPoint x="1059.5799999999997" y="800" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1099.58" y="770" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-YSsNaTIa-xBHhpinbjy-58" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry x="-130.42000000000002" y="175.5" width="100" height="100" as="geometry">
+            <mxPoint x="419.5800000000002" y="755" as="sourcePoint" />
+            <mxPoint x="419.57999999999976" y="800" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="459.58" y="770" />
             </Array>
           </mxGeometry>
         </mxCell>
