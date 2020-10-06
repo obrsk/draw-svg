@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2020-10-06T12:04:14.182Z" agent="5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.123 Safari/537.36" etag="zYJ3EBt2gUvUygC5XWej" compressed="false" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-06T12:06:32.416Z" agent="5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.123 Safari/537.36" etag="KxhZWCWlElolbcllEJ7W" compressed="false" version="13.7.7" type="github">
   <diagram name="Page-1" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="1412" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="2" value="ЗАВЕДУЮЩИЙ" style="fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="2" value="ЗАВЕДУЮЩИЙ" style="fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;fontFamily=Roboto Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto%2BCondensed;" parent="1" vertex="1">
           <mxGeometry x="672" y="240" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3" value="ОРГАНЫ ОБЩЕСТВЕННОГО САМОУПРАВЛЕНИЯ" style="fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
