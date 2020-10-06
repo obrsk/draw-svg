@@ -1,0 +1,143 @@
+<mxfile host="app.diagrams.net" modified="2020-10-06T13:31:03.839Z" agent="5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.123 Safari/537.36" etag="8bRwu-WB42FgvUBdvzzD" compressed="false" version="13.7.7" type="github">
+  <diagram name="Page-1" id="97916047-d0de-89f5-080d-49f4d83e522f">
+    <mxGraphModel dx="1661" dy="884" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="ЗАВЕДУЮЩИЙ" style="strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=16;fontFamily=Roboto Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto%2BCondensed;fillColor=#4F88B6;" parent="1" vertex="1">
+          <mxGeometry x="600" y="320" width="280" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="8" value="КЛАДОВЩИК" style="strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=16;fontFamily=Roboto Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto%2BCondensed;fillColor=#4F88B6;" parent="1" vertex="1">
+          <mxGeometry x="280" y="560" width="280" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="9" value="ЗАВХОЗ" style="strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=16;fontFamily=Roboto Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto%2BCondensed;fillColor=#4F88B6;" parent="1" vertex="1">
+          <mxGeometry x="280" y="680" width="280" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="13" value="СТАРШИЙ ВОСПИТАТЕЛЬ" style="strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=16;fontFamily=Roboto Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto%2BCondensed;fillColor=#4F88B6;" parent="1" vertex="1">
+          <mxGeometry x="599.9999999999999" y="680" width="280" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="14" value="ВОСПИТАТЕЛИ&#xa;МУЗЫКАЛЬНЫЙ РУКОВОДИТЕЛЬ" style="strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=16;fontFamily=Roboto Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto%2BCondensed;fillColor=#4F88B6;" parent="1" vertex="1">
+          <mxGeometry x="600" y="800" width="280" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="18" value="ДЕЛОПРОИЗВОДИТЕЛЬ" style="strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=16;fontFamily=Roboto Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto%2BCondensed;fillColor=#4F88B6;" parent="1" vertex="1">
+          <mxGeometry x="920" y="440" width="280" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="19" value="ЗАМЕСТИТЕЛЬ&#xa;ЗАВЕДУЮЩЕГО ПО ФЭВ" style="strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=16;fontFamily=Roboto Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto%2BCondensed;fillColor=#4F88B6;" parent="1" vertex="1">
+          <mxGeometry x="920" y="560" width="280" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="20" value="ВОСПИТАННИКИ И ИХ РОДИТЕЛИ" style="strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=16;fontFamily=Roboto Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto%2BCondensed;fillColor=#4F88B6;" parent="1" vertex="1">
+          <mxGeometry x="279.99999999999983" y="960" width="920" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="31" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=none;endFill=0;fontStyle=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#4F88B6;exitX=0.215;exitY=0.984;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="2" target="8" edge="1">
+          <mxGeometry x="22" y="165.5" width="100" height="100" as="geometry">
+            <mxPoint x="620" y="398" as="sourcePoint" />
+            <mxPoint x="402" y="455.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="570" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="38" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=none;endFill=0;fontStyle=1;strokeColor=#4F88B6;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.357;exitY=0.987;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="2" target="9" edge="1">
+          <mxGeometry x="62" y="165.5" width="100" height="100" as="geometry">
+            <mxPoint x="650" y="440" as="sourcePoint" />
+            <mxPoint x="162" y="165.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="540" y="660" />
+              <mxPoint x="570" y="660" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="42" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=none;endFill=0;fontStyle=1;strokeColor=#4F88B6;" parent="1" source="13" target="14" edge="1">
+          <mxGeometry x="190" y="165.5" width="100" height="100" as="geometry">
+            <mxPoint x="190" y="265.5" as="sourcePoint" />
+            <mxPoint x="290" y="165.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="54" value="" style="elbow=vertical;strokeWidth=4;endArrow=none;endFill=0;fontStyle=1;strokeColor=#4F88B6;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="2" target="13" edge="1">
+          <mxGeometry x="22" y="165.5" width="100" height="100" as="geometry">
+            <mxPoint x="740" y="515" as="sourcePoint" />
+            <mxPoint x="772" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-YSsNaTIa-xBHhpinbjy-57" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=none;endFill=0;fontStyle=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#4F88B6;" parent="1" edge="1">
+          <mxGeometry x="509.58" y="175.5" width="100" height="100" as="geometry">
+            <mxPoint x="1059.5800000000002" y="755" as="sourcePoint" />
+            <mxPoint x="1059.5799999999997" y="800" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1099.58" y="770" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-YSsNaTIa-xBHhpinbjy-58" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=none;endFill=0;fontStyle=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#4F88B6;" parent="1" edge="1">
+          <mxGeometry x="-130.42000000000002" y="175.5" width="100" height="100" as="geometry">
+            <mxPoint x="419.5800000000002" y="755" as="sourcePoint" />
+            <mxPoint x="419.57999999999976" y="800" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="459.58" y="770" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VsVFhX7NwL-33StaCZSw-55" value="МЕДИЦИНСКАЯ СЕСТРА" style="strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=16;fontFamily=Roboto Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto%2BCondensed;fillColor=#4F88B6;" vertex="1" parent="1">
+          <mxGeometry x="920" y="680" width="280" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="VsVFhX7NwL-33StaCZSw-56" value="ПОВАРА&#xa;КУХОННАЯ РАБОЧАЯ&#xa;ПОМОЩНИКИ ВОСПИТАТЕЛЕЙ" style="strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=16;fontFamily=Roboto Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto%2BCondensed;fillColor=#4F88B6;" vertex="1" parent="1">
+          <mxGeometry x="920" y="800" width="280" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="VsVFhX7NwL-33StaCZSw-57" value="СТОРОЖА&#xa;ПОМОЩНИКИ ВОСПИТАТЕЛЕЙ&#xa;МАШИНИСТ ПО СТИРКЕ БЕЛЬЯ&#xa;РАБОЧИЕ ПО ОБСЛУЖИВАНИЮ" style="strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=16;fontFamily=Roboto Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto%2BCondensed;fillColor=#4F88B6;" vertex="1" parent="1">
+          <mxGeometry x="280" y="800" width="280" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="VsVFhX7NwL-33StaCZSw-63" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=none;endFill=0;fontStyle=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#4F88B6;exitX=0.644;exitY=0.999;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="2">
+          <mxGeometry x="509.49999999999994" y="55.5" width="100" height="100" as="geometry">
+            <mxPoint x="779" y="420" as="sourcePoint" />
+            <mxPoint x="1059.5" y="680" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="920" y="660" />
+              <mxPoint x="1099.5" y="650" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VsVFhX7NwL-33StaCZSw-74" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=none;endFill=0;fontStyle=1;strokeColor=#4F88B6;" edge="1" parent="1">
+          <mxGeometry x="-351.5" y="235.5" width="100" height="100" as="geometry">
+            <mxPoint x="419.5" y="960" as="sourcePoint" />
+            <mxPoint x="419.5" y="920" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VsVFhX7NwL-33StaCZSw-79" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=none;endFill=0;fontStyle=1;strokeColor=#4F88B6;" edge="1" parent="1" source="20" target="14">
+          <mxGeometry x="-341.5" y="245.5" width="100" height="100" as="geometry">
+            <mxPoint x="429.5" y="970" as="sourcePoint" />
+            <mxPoint x="429.5" y="930" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VsVFhX7NwL-33StaCZSw-80" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=none;endFill=0;fontStyle=1;strokeColor=#4F88B6;" edge="1" parent="1" target="VsVFhX7NwL-33StaCZSw-56">
+          <mxGeometry x="-331.5" y="255.5" width="100" height="100" as="geometry">
+            <mxPoint x="1060" y="961" as="sourcePoint" />
+            <mxPoint x="750" y="930" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VsVFhX7NwL-33StaCZSw-83" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=none;endFill=0;fontStyle=1;strokeColor=#4F88B6;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="19">
+          <mxGeometry x="552.38" y="52.54" width="100" height="100" as="geometry">
+            <mxPoint x="820" y="390" as="sourcePoint" />
+            <mxPoint x="1060" y="550" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="950" y="540" />
+              <mxPoint x="1142.38" y="647.04" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VsVFhX7NwL-33StaCZSw-84" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=none;endFill=0;fontStyle=1;exitX=0.927;exitY=0.994;exitDx=0;exitDy=0;strokeColor=#4F88B6;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2" target="18">
+          <mxGeometry x="562.38" y="62.54" width="100" height="100" as="geometry">
+            <mxPoint x="850.0000000000002" y="406.0039999999999" as="sourcePoint" />
+            <mxPoint x="1070" y="570" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="950" y="420" />
+              <mxPoint x="1152.38" y="657.04" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
