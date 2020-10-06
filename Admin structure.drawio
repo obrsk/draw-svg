@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-06T13:31:03.839Z" agent="5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.123 Safari/537.36" etag="8bRwu-WB42FgvUBdvzzD" compressed="false" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-06T13:31:55.319Z" agent="5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.123 Safari/537.36" etag="hBIElYkJi_f497Fyas6v" compressed="false" version="13.7.7" type="github">
   <diagram name="Page-1" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="1661" dy="884" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -25,7 +25,7 @@
         <mxCell id="19" value="ЗАМЕСТИТЕЛЬ&#xa;ЗАВЕДУЮЩЕГО ПО ФЭВ" style="strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=16;fontFamily=Roboto Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto%2BCondensed;fillColor=#4F88B6;" parent="1" vertex="1">
           <mxGeometry x="920" y="560" width="280" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="20" value="ВОСПИТАННИКИ И ИХ РОДИТЕЛИ" style="strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=16;fontFamily=Roboto Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto%2BCondensed;fillColor=#4F88B6;" parent="1" vertex="1">
+        <mxCell id="20" value="ВОСПИТАННИКИ" style="strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=16;fontFamily=Roboto Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto%2BCondensed;fillColor=#4F88B6;" parent="1" vertex="1">
           <mxGeometry x="279.99999999999983" y="960" width="920" height="75" as="geometry" />
         </mxCell>
         <mxCell id="31" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=none;endFill=0;fontStyle=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#4F88B6;exitX=0.215;exitY=0.984;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="2" target="8" edge="1">
